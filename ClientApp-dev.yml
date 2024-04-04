@@ -1,2 +1,1 @@
-welcome:
-  message: Welcome to dev3 env
+welcome.message=Welcome to dev3 env
