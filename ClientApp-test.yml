@@ -1,2 +1,1 @@
-welcome:
-  message: Welcome to test from git
+welcome.message=Welcome to test from git
